@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Installtion 
 
-Öncelikle projeyi klonlayın. [İlkRepom](https://github.com/bayram88/kodluyoruzilkrepo.git)
+Öncelikle projeyi klonlayın. [Kodluyoruz Ilk Repo](https://github.com/bayram88/kodluyoruzilkrepo.git)
 
 ```
 git clone https://github.com/bayram88/kodluyoruzilkrepo.git
@@ -28,5 +28,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://github.com/bayram88/kodluyoruzilkrepo/blob/main/LICENSE)
 
 ## Image
+Markdown ile oluşturduğum dosyanın resmi:
 
 ![ProjectPhoto](projectPhoto.PNG) 
