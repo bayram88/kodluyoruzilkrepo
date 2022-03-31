@@ -1,0 +1,6 @@
+!!!  DİKKATT !!!
+git reset --hard origin/branch-name
+
+git puss sorunu olunca karşıdan sıfırlama işlemi.. yerelde her şeyi siler 
+
+DEİŞİKLİKLER TEKRAR PUSH EDİLİR
